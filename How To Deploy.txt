@@ -1,0 +1,6 @@
+
+Turn off the kiosk.exe on every kiosk ([ALT][F4] on each kiosk)  Note: setting the bit O_KILL_KIOSKS in mfd06 will also stop all kiosks
+Remove sharing from "Deploy" (share with nobody)
+replace kiosk.exe
+share Deploy with <username>kiosk</username> (read only)
+launch kiosk.exe (via the desktop shortcut) on all kiosks
